@@ -1,0 +1,35 @@
+.header {
+  width: 100%;
+  padding: 1rem 0;
+  background-color: #F27D42;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &__wrapper {
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__logo {
+    color: #fff;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-size: 18px;
+  }
+
+  &__nav {
+
+    &-list {
+      width: 100%;
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    &-list__item-link{
+      color: #fff;
+    } 
+  }
+}

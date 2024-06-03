@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "name": "Анальгин",
+    "expiration_date": "2023-12-31",
+    "price": 50,
+    "quantity": 100,
+    "composition": "Метамизол натрия",
+    "volume": "10 таблеток",
+    "image": "https://avatars.mds.yandex.net/get-goods_pic/8177326/hat8838fda967261a4830502b39f0b7400c/600x600"
+  },
+  {
+    "id": 2,
+    "name": "Цитрамон",
+    "expiration_date": "2023-11-30",
+    "price": 70,
+    "quantity": 80,
+    "composition": "Ацетилсалициловая кислота, парацетамол, кофеин",
+    "volume": "20 таблеток",
+    "image": "https://avatars.mds.yandex.net/get-goods_pic/8298038/hat45cbd389b59f293765e52443de0c1181/600x600"
+  },
+  {
+    "id": 3,
+    "name": "Но-шпа",
+    "expiration_date": "2024-01-31",
+    "price": 120,
+    "quantity": 60,
+    "composition": "Дротаверин",
+    "volume": "30 таблеток",
+    "image": "https://avatars.mds.yandex.net/get-goods_pic/10425757/hat972bf86346df40835e869f088a2a0781/600x600"
+  },
+  {
+    "id": 4,
+    "name": "Мезим",
+    "expiration_date": "2023-09-30",
+    "price": 90,
+    "quantity": 40,
+    "composition": "Панкреатин",
+    "volume": "60 таблеток",
+    "image": "https://avatars.mds.yandex.net/get-goods_pic/10893190/hata2ea736486be025b28b4e28af4e8f34c/600x600"
+  },
+  {
+    "id": 5,
+    "name": "Левомеколь",
+    "expiration_date": "2023-10-31",
+    "price": 150,
+    "quantity": 70,
+    "composition": "Хлорамфеникол, метилурацил",
+    "volume": "40 г",
+    "image": "https://avatars.mds.yandex.net/get-goods_pic/10717772/hat915ca1a9c46591900e9b141188fdb156/600x600"
+  },
+  {
+    "id": 6,
+    "name": "Фарингосепт",
+    "expiration_date": "2024-02-28",
+    "price": 240,
+    "quantity": 90,
+    "composition": "Декаметоксин, лидокоин, аскорбиновая кислота",
+    "volume": "20 таблеток",
+    "image": "https://avatars.mds.yandex.net/get-goods_pic/9233773/hat1de22ee62fbe223f09a8693e16aed814/600x600"
+  },
+  {
+    "id": 7,
+    "name": "Парацетамол",
+    "expiration_date": "2023-08-31",
+    "price": 40,
+    "quantity": 120,
+    "composition": "Парацетамол",
+    "volume": "50 таблеток",
+    "image": "https://avatars.mds.yandex.net/get-goods_pic/5600277/hat2423624247c611d11b9f214dda3ef9c7/600x600"
+  },
+  {
+    "id": 8,
+    "name": "Линекс",
+    "expiration_date": "2023-11-30",
+    "price": 480,
+    "quantity": 50,
+    "composition": "Лактобактерии",
+    "volume": "30 капсул",
+    "image": "https://avatars.mds.yandex.net/get-goods_pic/10641022/hat3b0089c29bb7da99ba3f70f8c9122d0c/600x600"
+  },
+  {
+    "id": 9,
+    "name": "Ингавирин",
+    "expiration_date": "2024-03-31",
+    "price": 160,
+    "quantity": 30,
+    "composition": "Витаглюкозилид, имидазолилэтанамид пентандиовой кислоты",
+    "volume": "7 капсул",
+    "image": "https://avatars.mds.yandex.net/get-goods_pic/8110647/hat617a20664e4622d550add1ff86fdd79f/600x600"
+  },
+  {
+    "id": 11,
+    "name": "Ацикловир",
+    "expiration_date": "2023-10-31",
+    "price": 60,
+    "quantity": 100,
+    "composition": "Ацикловир",
+    "volume": "20 таблеток",
+    "image": "https://avatars.mds.yandex.net/get-goods_pic/9832435/hatfd59347de1cd8123799ac6d647d8870b/600x600"
+  },
+  {
+      "id": 12,
+      "name": "Фурасепт",
+      "expiration_date": "2023-12-31",
+      "price": 1100,
+      "quantity": 90,
+      "composition": "Фуразолидон",
+      "volume": "30 таблеток",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/11266553/hat3e73cb8fc07d803192a4f41b3e598274/600x600"
+  },
+  {
+      "id": 13,
+      "name": "Цефтриаксон",
+      "expiration_date": "2023-11-30",
+      "price": 50,
+      "quantity": 60,
+      "composition": "Цефтриаксон",
+      "volume": "1 флакон",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/11170995/hat60adfbf9866bce4204e03c30801e9a0c/600x600"
+  },
+  {
+      "id": 14,
+      "name": "Диазолин",
+      "expiration_date": "2023-09-30",
+      "price": 145,
+      "quantity": 70,
+      "composition": "Мезоластин",
+      "volume": "20 таблеток",
+      "image": "https://apteka-standart.ru/uploads/catalog/4601808008333_3.jpg.webp"
+  },
+  {
+      "id": 15,
+      "name": "Ингалипт",
+      "expiration_date": "2023-10-31",
+      "price": 50,
+      "quantity": 80,
+      "composition": "Масло эвкалипта, мята перечная, глицерол",
+      "volume": "50 мл",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/10878960/hat588c9203204788ce6a4dace02118a5f2/600x600"
+  },
+  {
+      "id": 16,
+      "name": "Ринзасип",
+      "expiration_date": "2023-11-30",
+      "price": 235,
+      "quantity": 120,
+      "composition": "Ксилометазолин",
+      "volume": "10 мл",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/6148826/hat3b6015991ce30e3f9e15c6ce269b27d4/600x600"
+  },
+  {
+      "id": 17,
+      "name": "Ампициллин",
+      "expiration_date": "2024-12-31",
+      "price": 190,
+      "quantity": 150,
+      "composition": "Ампициллин",
+      "volume": "20 таблеток",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/6327049/hat3429ab3b7c05ad0b745199352ea02a8e/600x600"
+  },
+  {
+      "id": 19,
+      "name": "Омез",
+      "expiration_date": "2024-01-31",
+      "price": 55,
+      "quantity": 40,
+      "composition": "Омепразол",
+      "volume": "20 таблеток",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/7235862/hat98f7ca3db27b8c392b402af5ff803795/600x600"
+  },
+  {
+      "id": 20,
+      "name": "Эреспал",
+      "expiration_date": "2023-12-31",
+      "price": 235,
+      "quantity": 70,
+      "composition": "Фенхональ, дихлорфенхидрамин",
+      "volume": "20 таблеток",
+      "image": "https://stoletov.ru/upload/iblock/56b/56ba67a682e9fbbb26f88465a6051cde.png"
+  },
+  {
+    "id": 21,
+    "name": "Найз",
+    "expiration_date": "2023-11-30",
+    "price": 65,
+    "quantity": 80,
+    "composition": "Напроксен",
+    "volume": "50 таблеток",
+    "image": "https://avatars.mds.yandex.net/get-goods_pic/11121421/hat5a51f10c9a618a9da94312f408141d54/600x600"
+  },
+  {
+      "id": 22,
+      "name": "Фемибион",
+      "expiration_date": "2024-02-28",
+      "price": 820,
+      "quantity": 60,
+      "composition": "Комплекс витаминов и минералов",
+      "volume": "30 капсул",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/9757023/hatcaf94bc6d9ec5879349c42fcbebc5734/600x600"
+  },
+  {
+      "id": 23,
+      "name": "Мезим Форте",
+      "expiration_date": "2023-10-31",
+      "price": 195,
+      "quantity": 90,
+      "composition": "Панкреатин",
+      "volume": "20 таблеток",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/10893190/hata2ea736486be025b28b4e28af4e8f34c/600x600"
+  },
+  {
+      "id": 24,
+      "name": "Цитрамон",
+      "expiration_date": "2023-09-30",
+      "price": 70,
+      "quantity": 100,
+      "composition": "Ацетилсалициловая кислота, парацетамол, кофеин",
+      "volume": "10 таблеток",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/8298038/hat45cbd389b59f293765e52443de0c1181/600x600"
+  },
+  {
+      "id": 25,
+      "name": "Энтерол",
+      "expiration_date": "2023-12-31",
+      "price": 540,
+      "quantity": 120,
+      "composition": "Лактобактерии",
+      "volume": "30 капсул",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/9185966/hate8cabbc78575c8c365dc73d520c7f05c/600x600"
+  },
+  {
+      "id": 26,
+      "name": "Парацетамол",
+      "expiration_date": "2024-01-31",
+      "price": 45,
+      "quantity": 150,
+      "composition": "Парацетамол",
+      "volume": "30 таблеток",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/5600277/hat2423624247c611d11b9f214dda3ef9c7/600x600"
+  },
+  {
+      "id": 27,
+      "name": "Називин",
+      "expiration_date": "2023-11-30",
+      "price": 285,
+      "quantity": 100,
+      "composition": "Оксиметазолин",
+      "volume": "10 мл",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/9677543/hat23819284928e0b756dd1c64f307f1dfc/600x600"
+  },
+  {
+      "id": 28,
+      "name": "Лоратадин",
+      "expiration_date": "2023-10-31",
+      "price": 60,
+      "quantity": 90,
+      "composition": "Лоратадин",
+      "volume": "20 таблеток",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/11304284/hat799560299c9e38c9c2448e03654d0f28/600x600"
+  },
+  {
+      "id": 30,
+      "name": "Антигриппин",
+      "expiration_date": "2023-12-31",
+      "price": 350,
+      "quantity": 70,
+      "composition": "Парацетамол, фенилэфририн",
+      "volume": "10 таблеток",
+      "image": "https://vseapteki.ru/cropping/thumbnails/101/69376/share_default/"
+  },
+  {
+    "id": 31,
+    "name": "Супрадин",
+    "expiration_date": "2023-09-30",
+    "price": 1000,
+    "quantity": 60,
+    "composition": "Мультивитаминный комплекс",
+    "volume": "30 таблеток",
+    "image": "https://avatars.mds.yandex.net/get-goods_pic/8144271/hatdeaaa362bfc357be74b72564740ec10e/600x600"
+  },
+  {
+      "id": 32,
+      "name": "Спазмалгон",
+      "expiration_date": "2023-11-30",
+      "price": 145,
+      "quantity": 80,
+      "composition": "Дипиросалин, питофенон",
+      "volume": "20 таблеток",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/11621202/hat956ae1dcb10058b033fd7b5b24724dc2/600x600"
+  },
+  {
+      "id": 33,
+      "name": "Ампициллин",
+      "expiration_date": "2024-02-28",
+      "price": 25,
+      "quantity": 100,
+      "composition": "Ампициллин",
+      "volume": "10 капсул",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/6327049/hat3429ab3b7c05ad0b745199352ea02a8e/600x600"
+  },
+  {
+      "id": 35,
+      "name": "Цефтриаксон",
+      "expiration_date": "2023-12-31",
+      "price": 60,
+      "quantity": 120,
+      "composition": "Цефтриаксон",
+      "volume": "1 флакон",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/11170995/hat60adfbf9866bce4204e03c30801e9a0c/600x600"
+  },
+  {
+      "id": 36,
+      "name": "Арбидол",
+      "expiration_date": "2024-01-31",
+      "price": 55,
+      "quantity": 150,
+      "composition": "Арбидол",
+      "volume": "20 таблеток",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/11503800/hat0a5fcf058deadc0e3636f3ec0d18e035/600x600"
+  },
+  {
+      "id": 37,
+      "name": "Ринзасип",
+      "expiration_date": "2023-11-30",
+      "price": 230,
+      "quantity": 100,
+      "composition": "Захариды, фенилфрин",
+      "volume": "10 мл",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/7750261/hat000c9fd9d922d946ffab445ab045fddd/600x600"
+  },
+  {
+      "id": 38,
+      "name": "Нурофен",
+      "expiration_date": "2023-10-31",
+      "price": 140,
+      "quantity": 90,
+      "composition": "Ибупрофен",
+      "volume": "10 таблеток",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/5635291/hat699beb6f8a8b7e06f1c12cfc7b08009a/600x600"
+  },
+  {
+      "id": 39,
+      "name": "Бисептол",
+      "expiration_date": "2024-02-28",
+      "price": 150,
+      "quantity": 80,
+      "composition": "Ко-тримоксазол",
+      "volume": "20 таблеток",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/10887694/hata49a8952952eefbc1c845d0cb88f14fa/600x600"
+  },
+  {
+      "id": 40,
+      "name": "Смекта",
+      "expiration_date": "2023-12-31",
+      "price": 135,
+      "quantity": 70,
+      "composition": "Диосмектит",
+      "volume": "10 пакетиков",
+      "image": "https://avatars.mds.yandex.net/get-goods_pic/6200127/hate69a7d4e1755355612b7bc092d29c970/600x600"
+  }
+]
