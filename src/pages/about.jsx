@@ -22,7 +22,7 @@ const About = () => {
         </Link>
       </div>
       <main className="main">
-
+        <p className="main__text"></p>
       </main>
       <Footer />
     </>

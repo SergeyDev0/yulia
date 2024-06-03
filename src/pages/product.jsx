@@ -39,7 +39,7 @@ const Product = () => {
             <h3 className="product__info-price">Цена: {product.price} ₽</h3>
             <p className="product__info-quantity">{product.quantity} шт в наличии</p>
             <p className="product__info-text">Для того, чтобы связаться с продавцом, по вопросу, интересующему вас, вы можете нажать по кнопке или же набрать номер +7(988)269-96-15</p>
-            <a href="tel:+79999999999" className="product__info-link">Позвонить</a>
+            <a href="tel:+79882699615" className="product__info-link">Позвонить</a>
           </div>
         </div>
       </main>
