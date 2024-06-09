@@ -9,6 +9,7 @@ const Catalog = () => {
     <>
       <Header />
       <main className="main">
+        <h2 className="main__title">Наш ассортимент товаров</h2>
         <div className="main__wrapper-products">
           {
             products.map((item) => (

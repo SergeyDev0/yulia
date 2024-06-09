@@ -8,6 +8,7 @@ const Contacts = () => {
     <>
       <Header />
       <main className="main contacts">
+        <h2 className="main__title">Контакты</h2>
         <div className="contacts__info">
           <ul className="contacts__info-list">
             <li className="contacts__info-list__item"><b>Адрес:</b>&nbsp; С.Терекли-Мектеб, ул. Эдиге 13/1</li>

@@ -27,7 +27,7 @@ export const Map = () => {
     }, []);
 
     return (
-        <div style={{ width: '100%', height: 400 }}>
+        <div style={{ width: '100%', height: '100%' }}>
             <MapWrapper />
         </div>
     );
